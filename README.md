@@ -1,2 +1,2 @@
 # maze
-generator a maze and find the path.
+generator a maze and find the path..
