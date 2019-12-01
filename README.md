@@ -1,4 +1,4 @@
 # maze
-generator a maze and find the path
+generator a maze using Hunt and kill algorithm
 
 Pressing the return key will regenerate the maze
